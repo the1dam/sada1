@@ -56,7 +56,7 @@ CompileCpp=1
 Folder=
 Compile=1
 Link=1
-Priority=1000
+Priority=1001
 OverrideBuildCmd=0
 BuildCmd=
 
